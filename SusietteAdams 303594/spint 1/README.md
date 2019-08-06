@@ -1,4 +1,6 @@
 
+![image](https://user-images.githubusercontent.com/43391446/62583821-d6772280-b87f-11e9-8890-a8e8ab795ee1.png)
+
 Housing Rent Prices for 2-bedroom apartments in the major Canadian Cities
 Susiette Adams, Student ID 303594
  Sprint 1
