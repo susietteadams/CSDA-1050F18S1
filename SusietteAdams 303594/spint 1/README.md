@@ -2,8 +2,10 @@
 ![image](https://user-images.githubusercontent.com/43391446/62583821-d6772280-b87f-11e9-8890-a8e8ab795ee1.png)
 
 Housing Rent Prices for 2-bedroom apartments in the major Canadian Cities
+
 Susiette Adams, Student ID 303594
- Sprint 1
+
+Sprint 1
  
 Abstract
 
@@ -11,15 +13,15 @@ This project was assigned by York University 1050 Advanced Analytics Capstone Co
 
 The boundaries of this project:
 
-Upon completion the results will outline the cities that are most livable / cost effective for renter’s base on the locations.
-Evaluating factors such as household income and market indicators will be used to determine if there are correlations between the costs of the housing in the top Canadian cities.
-Completion of this project will be by August 27th 2019.
+Upon completion the results will outline the cities that are most livable / cost effective for renter’s base on the locations.
+Evaluating factors such as household income and market indicators will be used to determine if there are correlations between the costs of the housing in the top Canadian cities.
+Completion of this project will be by August 27th 2019.
 
 Research questions
 
-What are the top 10 cities with the highest and lowest average income?
-What cities have the highest and lowest rent cost?
-What are the Market Indicators that affects rents cost in these cities?
+What are the top 10 cities with the highest and lowest average income?
+What cities have the highest and lowest rent cost?
+What are the Market Indicators that affects rents cost in these cities?
 
 What is needed to be done to run the codes?
 
@@ -72,7 +74,7 @@ Plotting the missing values
 
 Steps to be taken
 
-Complete the data cleanup process and assign values in the missing data for the market indicator dataset. 
-Normalize and transform the skewed data
-Remove outliers to prepare the datasets for modelling.
-I would also like to take a closer look at the top and lower 10 results to see if there are any relation in the cities and similarities within the market indicators.
+Complete the data cleanup process and assign values in the missing data for the market indicator dataset. 
+Normalize and transform the skewed data
+Remove outliers to prepare the datasets for modelling.
+I would also like to take a closer look at the top and lower 10 results to see if there are any relation in the cities and similarities within the market indicators.
